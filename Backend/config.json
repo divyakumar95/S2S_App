@@ -1,0 +1,16 @@
+{
+    "APP": {
+        "ENVIRONMENT": "dev",
+        "DEBUG": true,
+        "PORT":4000
+    },
+    "MODEL": "models/Weights-016--0.16979.hdf5",
+    "filepath":{
+        "root":"processed", 
+        "upload": "processed/original/",
+        "silence":"processed/sil/",
+        "feature":"processed/features/",
+        "plot":"processed/plots/",
+        "reult": "processed/predicted/"
+    }
+}

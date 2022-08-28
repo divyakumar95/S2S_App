@@ -1,0 +1,47 @@
+# Subject Applied Research   
+
+# Application 
+
+-----------------------
+
+# Getting started
+To get started with the code on this repo, you need to either clone or download this repo into your machine just as shown below;
+
+```bash
+git clone https://github.com/divyakumar95/S2S_App.git
+```
+
+## Dependencies
+Before you begin playing with the source code you might need to install deps just as shown below;
+
+```bash
+# to setup requirements in backend server
+cd Backend
+pip3 install -r requirements.txt
+
+# to setup front end react
+cd /front-end
+npm install package.json
+
+```
+
+## Running the App 
+
+To run the application we can 
+
+```bash
+# to setup backend Flask server
+cd /Backend
+/Backend -> python3 server.py
+
+-----------------------------------
+# to start frontend end react
+cd /front-end
+front-end npm start
+```
+
+-----------------------
+
+# Problem statement
+
+Check the report file on further usage
